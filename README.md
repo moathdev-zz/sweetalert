@@ -40,7 +40,7 @@ it's so Easy !
 
 ````
 
- flash('title','message,'success',true);
+ flash('title','message','success',true);
 
  // there is 4 Types 1-warning 2-error 3-success 4-info
 
