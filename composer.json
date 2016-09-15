@@ -1,0 +1,22 @@
+{
+  "name": "moathdev/sweetalert",
+  "description": "A Sweet Alert package for Laravel 5.2",
+  "type": "package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "moathdev",
+      "email": "Moath@moath.co"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.0",
+    "illuminate/support": "~5.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Moathdev\\Sweetalert\\": "src/"
+    }
+  }
+}
