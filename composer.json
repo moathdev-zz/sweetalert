@@ -9,7 +9,7 @@
       "email": "Moath@moath.co"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {
     "php": ">=5.5.0",
     "illuminate/support": "~5.1"
