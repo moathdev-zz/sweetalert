@@ -39,9 +39,12 @@ Add the JS script and include flash view before close your </body> tag.
 it's so Easy !
 
 ````
- flash('title','message,'type,'showConfirmButton');
+
+ flash('title','message,'success',true);
 
  // there is 4 Types 1-warning 2-error 3-success 4-info
+
+ // showConfirmButton yes = true no = false
 
 ````
 
